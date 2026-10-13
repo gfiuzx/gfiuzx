@@ -18,14 +18,12 @@ I am interested in building reliable systems, writing maintainable code, and und
 [![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ---
-<div align="center">
 
 ### Connect
 
 [![INSTAGRAM](https://img.shields.io/badge/@gfiuzaa__-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gfiuzaa_/)
 [![LINKEDIN](https://img.shields.io/badge/Guilherme%20Fiuza-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-fiuza/)
 
-<div/>
 <p align="center">
   <sub>SOFTWARE ENGINEERING · BACKEND DEVELOPMENT · CONTINUOUS LEARNING</sub>
 </p>
